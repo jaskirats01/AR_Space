@@ -33,13 +33,13 @@ You can find this AI implementation and sample outputs in the `/web-ai-version/`
 ---
 
 ## 📂 Folder Overview
+(All these are inside demo folder)
 
 | Folder/File | Description |
 |-------------|-------------|
 | `/Unity-Screenshots/` | Screenshots from the AR Unity app (in development) |
 | `/App-Demo-Video/` | Demo video showing the app interface |
 | `/Satellite-AR/` | Satellite AR model used for visualization |
-| `/web-ai-version/` | Working AI object detection scripts and models |
 | `train.py`, `predict.py` | YOLOv8 training and prediction files |
 | `README.md` | You’re here! |
 
